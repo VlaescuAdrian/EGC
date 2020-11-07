@@ -1,0 +1,6 @@
+#pragma once
+
+
+#include <Laboratoare/Laborator3/Tema1.h>
+#include <Laboratoare/Laborator3/Tema1_Vis2D.h>
+
